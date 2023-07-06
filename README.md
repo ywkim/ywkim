@@ -4,7 +4,7 @@ I'm the CEO of @algorima, an AI enthusiast, and a devotee of Emacs. I'm passiona
 
 ## 🚀 [Iris: A Multilingual Voice Assistant](https://ywkim.github.io/building-multilingual-voice-assistant-iris-openai-picovoice/)
 
-Iris is a multilingual voice assistant that combines OpenAI's GPT models and Picovoice's Porcupine for keyword detection. It's a unique blend of advanced AI capabilities and user-friendly interaction. If you're interested in voice assistant technology, I invite you to join the journey of Iris.
+Iris is a multilingual voice assistant that combines OpenAI's GPT models, Picovoice's Porcupine for keyword detection, and now LangChain for enhanced conversational capabilities. It's a unique blend of advanced AI technologies that offers user-friendly and context-aware interactions. If you're interested in the cutting-edge voice assistant technology, I invite you to join the journey of Iris.
 
 ## 🔧 [GPT-Commit](https://github.com/ywkim/gpt-commit)
 
