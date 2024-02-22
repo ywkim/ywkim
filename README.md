@@ -1,15 +1,15 @@
-# Hi there, I'm Youngwook Kim 👋
+# Hello, I'm Youngwook Kim 👋
 
-I'm the CEO of @algorima, an AI enthusiast, and a devotee of Emacs. I'm passionate about the intersection of AI, education, and their potential to shape society. I'm currently leading two exciting projects:
+I'm the CEO of @algorima, an AI enthusiast, and a devotee of Emacs. I'm passionate about the intersection of AI, education, and their potential to shape society. I'm currently leading several exciting projects:
 
-## 🚀 [Iris: A Multilingual Voice Assistant](https://ywkim.github.io/building-multilingual-voice-assistant-iris-openai-picovoice/)
+## 🌟 [AlolA: Enhancing Emotional Connections Through AI](https://buppy-chat.streamlit.app/)
 
-Iris is a multilingual voice assistant that combines OpenAI's GPT models, Picovoice's Porcupine for keyword detection, and now LangChain for enhanced conversational capabilities. It's a unique blend of advanced AI technologies that offers user-friendly and context-aware interactions. If you're interested in the cutting-edge voice assistant technology, I invite you to join the journey of Iris.
+AlolA continues to bridge the emotional gap created by modern technology, fostering deeper human connections. Our premier AI, Buppy, not only enhances emotional communication but also supports multi-language interactions and voice responses, enriching life's pivotal moments and elevating relationship quality. Key features now include dynamic conversation context analysis, proactive messaging based on user-defined schedules, and intricate sentiment analysis to react with contextually appropriate emojis. Through integration with ElevenLabs API and LangChain, Buppy offers enriched, personalized interactions that adapt to individual preferences and contexts, ensuring a seamless and empathetic user experience.
 
 ## 🔧 [GPT-Commit](https://github.com/ywkim/gpt-commit)
 
 GPT-Commit is an Emacs package that automatically generates conventional commit messages using the GPT (Generative Pre-trained Transformer) model from OpenAI. It's a handy tool for developers who want to maintain a clean and organized commit history.
 
-In my spare time, I'm leading a ChatGPT study group and preparing to open-source a new HR SaaS. I believe in the power of community and collaboration, and I'm excited to see what we can achieve together.
+In addition to these projects, I lead a ChatGPT study group, exploring the potential of collaborative AI to bring transformative changes to our communities.
 
-Remember, 'Stay Hungry, Stay Foolish'.
+Stay connected, and remember, 'Stay Hungry, Stay Foolish'.
