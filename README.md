@@ -13,9 +13,9 @@ Bringing fans and artists closer through technology:
 ## 🔨 Recent Contributions
 
 **Open Source (2025)**
-- [LiveKit Agents](https://github.com/livekit/agents/pull/3720) - Fish Audio TTS plugin (under review)
-- [Fish Audio SDK](https://github.com/fishaudio/fish-audio-python) - Type safety improvements (merged)
-- [LangChain.js](https://github.com/langchain-ai/langchainjs) - SerpAPI Loader, Playwright enhancements (merged)
+- [LiveKit Agents](https://github.com/livekit/agents/pull/3720) - Fish Audio TTS plugin
+- [Fish Audio SDK](https://github.com/fishaudio/fish-audio-python) - Type safety improvements
+- [LangChain.js](https://github.com/langchain-ai/langchainjs) - SerpAPI Loader, Playwright enhancements
 
 **Tools I Built**
 - [gpt-commit](https://github.com/ywkim/gpt-commit) - Automatic conventional commit messages using GPT for Emacs
